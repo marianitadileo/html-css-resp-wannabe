@@ -149,15 +149,31 @@ img {
    }
 
    .steps .col {
-        width: 100%;
+        width: 100%;  
    }
 
     .why-us .col {
-        width: 100%;
+        width: 100%;  
     }
 
-    .why-us .container {
+    .why-us {
         background-color: #222222;
+    }
+
+    .card {
+        margin: 2.5rem;
+    }
+
+    .col-left {
+        padding-bottom: 2.5rem;
+    }
+
+    .steps {
+        margin: 0;
+    }
+
+    .why-us h2 {
+        padding-top: 1rem;
     }
  } 
 
